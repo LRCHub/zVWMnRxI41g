@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "永遠のあくる日",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-17T05:24:46.431022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠のあくる日",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_永遠のあくる日_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永遠のあくる日",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_永遠のあくる日_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠のあくる日",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_永遠のあくる日_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "永遠のあくる日",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_永遠のあくる日_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠のあくる日",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_永遠のあくる日_Ado.txt"
+    }
+  ]
+}
